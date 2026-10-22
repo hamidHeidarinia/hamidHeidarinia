@@ -11,6 +11,6 @@
 
 - 📧 Email: <heidarinia.hamid@gmail.com>
 - 📱 Mobile: +989141939686 (Work)
-- 💼 LinkedIn: https://www.linkedin.com/in/hamid-heidarinia
+- 💼 LinkedIn: https://www.linkedin.com/in/hamidheidarinia
 - 🐙 GitHub: https://github.com/hamidHeidarinia
 - 🔗 Portfolio: https://hamidheidarinia.github.io
